@@ -212,6 +212,16 @@ label {
   html{
     font-size: 300%;
   }
+  h1{
+    font-size: 1.75em;
+    line-height: 1.182em; /* 26px / ~ 120% */
+    padding: 0.5em;
+  }
+  p{
+    font-size: 1.25em;
+    line-height: 1.182em; /* 26px / ~ 120% */
+    padding: 0.5em;
+  }
 
   
 }
