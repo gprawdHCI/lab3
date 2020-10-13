@@ -211,23 +211,20 @@ label {
 li {
   padding-top: 1.25em;
 }
-
+h1{
+  font-size: 1.75em;
+  line-height: 1.182em; /* 26px / ~ 120% */
+  padding: 0.5em;
+}
+p{
+  font-size: 1.25em;
+  line-height: 1.182em; /* 26px / ~ 120% */
+  padding: 0.5em;
+}
 @media only screen and (min-width: 720px) {
   html{
     font-size: 300%;
-  }
-  h1{
-    font-size: 1.75em;
-    line-height: 1.182em; /* 26px / ~ 120% */
-    padding: 0.5em;
-  }
-  p{
-    font-size: 1.25em;
-    line-height: 1.182em; /* 26px / ~ 120% */
-    padding: 0.5em;
-  }
-
-  
+  }  
 }
 
 /* ===== LAYOUT STYLES ====== */
